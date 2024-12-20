@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+My Name is Kaushal Soni.
+Currently Pursuing my B. Tech in Computer Science and Engineering.
 <!--
 **KaushalSony/KaushalSony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
